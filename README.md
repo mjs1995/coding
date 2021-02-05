@@ -12,6 +12,7 @@
     * 1이 될 때까지
     * 모험가 길드
     * 곱하기 혹은 더하기
+    * 문자열 뒤집기
     
 ## 구현(Implementation)
 아이디어를 코드로 바꾸는 구현
@@ -122,6 +123,4 @@
     * 1076.Project Employees II .sql
     * 619.Biggest Single Number.sql
     * 1285.Find the Start and End Number of Continuous Ranges.sql
-
-   
-
+    * 1398.Customers Who Bought Products A and B but Not C.sql
