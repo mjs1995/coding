@@ -192,3 +192,4 @@
     * 1398.Customers Who Bought Products A and B but Not C.sql
     * 1421.NPV Queries.sql
     * 1077.Project Employees III.sql	
+    * 1112.Highest Grade For Each Student.sql
