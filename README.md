@@ -198,3 +198,5 @@
     * 1045.Customers Who Bought All Products.sql
     * 1757.Recyclable And Low Fat Products Problem.sql
     * 570.Managers with at Least 5 Direct Reports.sql
+    * 574.Winning Candidate.sql
+ 
