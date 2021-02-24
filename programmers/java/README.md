@@ -3,3 +3,5 @@
 
 - if(!변수명[].equlas(변수명[])) {
   }
+
+- ArrayList<Integer> a1 = new ArrayList<Integer>(); list
