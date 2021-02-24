@@ -5,3 +5,4 @@
   }
 
 - ArrayList<Integer> a1 = new ArrayList<Integer>(); list
+- System.out.println("Hello Java"); 결과값 확인 
