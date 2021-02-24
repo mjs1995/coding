@@ -43,3 +43,14 @@ list[0] = GwangJik
 list[1] = KeonHo
 list[2] = TaeRim
 ```
+
+- 인덱싱 리스트
+```java
+int min = Collections.min(arr2);       
+int index_of_min = arr2.indexOf(min);
+arr2.remove(index_of_min);
+answer = new int[arr2.size()];
+        for(int i=0; i<arr2.size(); i++ ){
+            answer[i] = arr2.get(i);
+        }
+```
