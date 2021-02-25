@@ -212,4 +212,5 @@
     * 570.Managers with at Least 5 Direct Reports.sql
     * 574.Winning Candidate.sql
     * 178.Rank Scores.sql
- 
+    * 1149.Article Views II.sql
+	 
