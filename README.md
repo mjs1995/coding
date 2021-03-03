@@ -220,3 +220,4 @@
     * 180. Consecutive Numbers.sql
     * 614.Second Degree Follower.sql 
     * 569.Median Employee Salary.sql
+    * 1350.Students With Invalid Departments.sql
