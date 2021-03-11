@@ -246,3 +246,4 @@
     * 1173.Immediate Food Delivery I.sql
     * 613.Shortest Distance in a Line.sql
     * 1327.List the Products Ordered in a Period .sql
+    * 586.Customer Placing the Largest Number of Orders.sql
