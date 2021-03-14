@@ -251,3 +251,4 @@
     * 1327.List the Products Ordered in a Period .sql
     * 586.Customer Placing the Largest Number of Orders.sql
     * 1280.Students and Examinations.sql
+    * 1082.Sales Analysis I.sql
