@@ -252,3 +252,4 @@
     * 586.Customer Placing the Largest Number of Orders.sql
     * 1280.Students and Examinations.sql
     * 1082.Sales Analysis I.sql
+    * 1511.Customer Order Frequency.sql
