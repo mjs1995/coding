@@ -253,3 +253,4 @@
     * 1280.Students and Examinations.sql
     * 1082.Sales Analysis I.sql
     * 1511.Customer Order Frequency.sql
+    * 1517. Find Users With Valid E-Mails.sql
