@@ -254,3 +254,4 @@
     * 1082.Sales Analysis I.sql
     * 1511.Customer Order Frequency.sql
     * 1517. Find Users With Valid E-Mails.sql
+    * 603.Consecutive Available Seats.sql
