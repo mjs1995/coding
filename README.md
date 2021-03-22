@@ -256,4 +256,5 @@
     * 1517. Find Users With Valid E-Mails.sql
     * 603.Consecutive Available Seats.sql
     * 1113.Reported Posts.sql
-    * 512.Game Play Analysis II.sql  
+    * 512.Game Play Analysis II.sql
+    * 1141.User Activity for the Past 30 Days I.sql  
