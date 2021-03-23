@@ -257,4 +257,5 @@
     * 603.Consecutive Available Seats.sql
     * 1113.Reported Posts.sql
     * 512.Game Play Analysis II.sql
-    * 1141.User Activity for the Past 30 Days I.sql  
+    * 1141.User Activity for the Past 30 Days I.sql
+    * 1495.Friendly Movies Streamed Last Month.sql   
