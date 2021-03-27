@@ -261,4 +261,4 @@
     * 1495.Friendly Movies Streamed Last Month.sql
     * 1393.Capital Gain_Loss.sql
     * 1445.Apples & Oranges.sql
-    
+    * 1270.All People Report to the Given Manager.sql
