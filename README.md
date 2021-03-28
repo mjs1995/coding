@@ -262,3 +262,4 @@
     * 1393.Capital Gain_Loss.sql
     * 1445.Apples & Oranges.sql
     * 1270.All People Report to the Given Manager.sql
+    * 1308.Running Total for Different Genders.sql
