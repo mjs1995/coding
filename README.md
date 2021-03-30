@@ -263,3 +263,4 @@
     * 1445.Apples & Oranges.sql
     * 1270.All People Report to the Given Manager.sql
     * 1308.Running Total for Different Genders.sql
+    * 534_Game Play Analysis III.sql
