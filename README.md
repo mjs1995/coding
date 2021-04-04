@@ -266,3 +266,4 @@
     * 534_Game Play Analysis III.sql
     * 1440.Evaluate Boolean Expression.sql
     * 1532. The Most Recent Three Orders.sql
+    * 1204.Last Person to Fit in the Elevator.sql
