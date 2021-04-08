@@ -270,3 +270,4 @@
     * 1321.Restaurant Growth.sql
     * 608.Tree Node.sql
     * 1264.Page Recommendations .sql
+    * 1193.Monthly Transactions I.sql
