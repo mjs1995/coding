@@ -273,4 +273,5 @@
     * 1193.Monthly Transactions I.sql
     * 1126.Active Businesses.sql
     * 1501.Countries You Can Safely Invest In.sql
+    * 1341.Movie Rating.sql
     
