@@ -275,4 +275,4 @@
     * 1501.Countries You Can Safely Invest In.sql
     * 1341.Movie Rating.sql
     * 1212.Team Scores in Football Tournament.sql
-    
+    * 580.Count Student Number in Departments.sql   
