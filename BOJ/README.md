@@ -29,3 +29,39 @@ for x in find:
 # 2      
 ```
 
+# Heap
+```python
+import heapq
+
+nums = [4, 1, 7, 3, 8, 5]
+heap = []
+
+for num in nums:
+  heapq.heappush(heap, (-num, num))  # (우선 순위, 값)
+
+while heap:
+  print(heapq.heappop(heap)[1])  # index 1
+```
+8
+7
+5
+4
+3
+1
+
+```python
+import heapq
+
+def kth_smallest(nums, k):
+  heap = []
+  for num in nums:
+    heapq.heappush(heap, num)
+
+  kth_min = None
+  for _ in range(k):
+    kth_min = heapq.heappop(heap)
+  return kth_min
+
+print(kth_smallest([4, 1, 7, 3, 8, 5], 3))
+```
+4
