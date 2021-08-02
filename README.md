@@ -1,4 +1,49 @@
 # 코딩 
+## 알고리즘 이란?
+- 좋은 알고리즘 이란?
+	* 문제를 해결하는 것.
+	* 문제를 더 잘 해결하는 것.
+- 컴퓨터 알고리즘 이란?
+	* 컴퓨터가 어떤 문제를 해결하기 위해서 컴퓨터가 이해할 수 있는 방식으로 정리되어 있는 해결 방법
+- 팔린드롬 
+``` python
+def is_palindrome(word):
+    # 코드를 입력하세요.
+    for i in range(len(word) // 2):
+        right = len(word) - i - 1
+        if word[i] != word[right]:
+            return False
+    return True
+```
+- 선형 탐색 : 리스트의 처음부터 끝까지 순서대로 하나씩 탐색을 진행하는 알고리즘 
+```pytohn
+def linear_search(element, some_list):
+    # 코드를 작성하세요.
+    res = ""
+    for i in range(len(some_list)):
+        if element == some_list[i] :
+            return i
+    return None
+```
+
+- 이진 탐색 
+```python
+def binary_search(element, some_list):
+    # 코드를 작성하세요.
+    some_list.sort()
+    start = 0
+    end = len(some_list) - 1
+    
+    while start <= end:
+        mid = (start+end) // 2
+        if some_list[mid] == element:
+            return mid
+        elif some_list[mid] < element:
+            start = mid + 1
+        else:
+            end = mid - 1
+    return None
+```
 
 # 1) Python
 - 코딩 기초 상식을 위한 개인 연습지입니다.
