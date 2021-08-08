@@ -51,6 +51,13 @@ def binary_search(element, some_list):
 	* 삽입 정렬
 		* 각 값이 어떤 위치에 들어갈지 찾는다
 
+- 점근 표기법
+
+![image](https://user-images.githubusercontent.com/47103479/128636010-412aba53-12f8-46eb-90bd-e58a9d39973e.png)
+![image](https://user-images.githubusercontent.com/47103479/128636014-0447997d-37fa-44ef-b3cc-154c744c335d.png)
+![image](https://user-images.githubusercontent.com/47103479/128636032-6b92431b-de65-4fb9-bc14-9939f14eb65e.png)
+![image](https://user-images.githubusercontent.com/47103479/128636053-978868a7-2bc8-40e6-a808-5c9e76701640.png)
+
 
 # 1) Python
 - 코딩 기초 상식을 위한 개인 연습지입니다.
