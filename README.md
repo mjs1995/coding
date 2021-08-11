@@ -58,8 +58,25 @@ def binary_search(element, some_list):
 ![image](https://user-images.githubusercontent.com/47103479/128636032-6b92431b-de65-4fb9-bc14-9939f14eb65e.png)
 ![image](https://user-images.githubusercontent.com/47103479/128636053-978868a7-2bc8-40e6-a808-5c9e76701640.png)
  
+ - 재귀함수
+ ```python
+ # 파라미터 some_list를 거꾸로 뒤집는 함수
+def flip(some_list):
+    # base case
+    if len(some_list) == 0 or len(some_list) == 1:
+        return some_list
 
-# 1) Python
+    # recursive case
+    return some_list[-1:] + flip(some_list[:-1])
+
+# 테스트
+some_list = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+some_list = flip(some_list)
+print(some_list)
+[9, 8, 7, 6, 5, 4, 3, 2, 1]
+```
+
+# 1) Python 코딩 풀이
 - 코딩 기초 상식을 위한 개인 연습지입니다.
 
 ## 그리디(greedy)
@@ -265,7 +282,7 @@ def binary_search(element, some_list):
 	* 20254_Site Score
 	* 20492_세금
 
-# 2) SQL
+# 2) SQL 코딩풀이
 ## 1)Leetcode
     * 595. Big Countries.sql
     * 196. Delete Duplicate Emails.sql
