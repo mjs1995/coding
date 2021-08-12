@@ -76,6 +76,37 @@ print(some_list)
 [9, 8, 7, 6, 5, 4, 3, 2, 1]
 ```
 
+```python
+def binary_search(element, some_list, start_index=0, end_index=None):
+    # end_index가 따로 주어지지 않은 경우에는 리스트의 마지막 인덱스
+    if end_index == None:
+        end_index = len(some_list) - 1
+    
+    if start_index > end_index:
+        return None
+    
+    mid = (start_index + end_index) // 2
+    if element == some_list[mid]:
+        return mid
+    elif element < some_list[mid]:
+        return binary_search(element, some_list, start_index, mid-1)
+    else:
+        return binary_search(element, some_list, mid+1, end_index)
+```
+
+-  Brute Force : 가능한 모든 조합(비효율적)
+	* 장점 :  직관적이고 명확하다, 답을 확실하게 찾을 수 있다
+	* 단점 : 비효율적 
+``` python
+def max_product(left_cards, right_cards):
+    # 코드를 작성하세요.
+    res = []
+    for i in range(len(left_cards)):
+        for j in range(len(right_cards)):
+            res.append(left_cards[i]*right_cards[j])
+    return max(res)
+```
+
 # 1) Python 코딩 풀이
 - 코딩 기초 상식을 위한 개인 연습지입니다.
 
