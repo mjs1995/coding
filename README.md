@@ -107,6 +107,47 @@ def max_product(left_cards, right_cards):
     return max(res)
 ```
 
+- Divide and Conquer(분할정복)  
+```python
+def consecutive_sum(start, end):
+    mid = (start + end) // 2
+    if start == end:
+        return start
+    else:
+        return consecutive_sum(start, mid) +consecutive_sum(mid+1, end)
+```
+* 합병정렬
+```python
+def merge(list1, list2):
+    merged_list = []
+    i = 0
+    j = 0
+    
+    while i < len(list1) and j < len(list2):
+        if list1[i] > list2[j]:
+            merged_list.append(list2[j])
+            j += 1
+        else:
+            merged_list.append(list1[i])
+            i += 1
+    if i==len(list1):
+        merged_list.extend(list2[j:])
+    elif j == len(list2):
+        merged_list.extend(list1[i:])
+    return merged_list
+
+# 합병 정렬
+def merge_sort(my_list):
+    # 코드를 입력하세요.
+    if len(my_list) < 2:
+        return my_list
+    else:
+        left_half = my_list[:len(my_list) // 2]
+        right_half = my_list[len(my_list) // 2:]
+        return merge(merge_sort(left_half), merge_sort(right_half))
+```	
+
+
 # 1) Python 코딩 풀이
 - 코딩 기초 상식을 위한 개인 연습지입니다.
 
