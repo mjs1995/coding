@@ -149,7 +149,7 @@ def merge_sort(my_list):
         return merge(merge_sort(left_half), merge_sort(right_half))	
 ```
 
-- 퀵정렬
+- 퀵정렬  
 	* pivot : 기준 
 ```python
 # 두 요소의 위치를 바꿔주는 helper function
