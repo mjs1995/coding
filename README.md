@@ -65,7 +65,7 @@ def flip(some_list):
     # base case
     if len(some_list) == 0 or len(some_list) == 1:
         return some_list
-
+ 
     # recursive case
     return some_list[-1:] + flip(some_list[:-1])
 
