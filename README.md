@@ -98,7 +98,7 @@ def binary_search(element, some_list, start_index=0, end_index=None):
 	* 장점 :  직관적이고 명확하다, 답을 확실하게 찾을 수 있다
 	* 단점 : 비효율적 
 ``` python
-def max_product(left_cards, right_cards):
+def max_product(left_cards, right_cards): 
     # 코드를 작성하세요.
     res = []
     for i in range(len(left_cards)):
