@@ -196,6 +196,63 @@ def quicksort(my_list, start, end):
 
     # pivot의 오른쪽 부분 정렬
     quicksort(my_list, pivot + 1, end)
+
+def quicksort(my_list, start=0, end=None):
+    if end == None:
+        end = len(my_list) - 1
+
+    # base case
+    if end - start < 1:
+        return
+
+    # my_list를 두 부분으로 나누어주고,
+    # partition 이후 pivot의 인덱스를 리턴받는다
+    pivot = partition(my_list, start, end)
+
+    # pivot의 왼쪽 부분 정렬
+    quicksort(my_list, start, pivot - 1)
+
+    # pivot의 오른쪽 부분 정렬
+    quicksort(my_list, pivot + 1, end)
+```
+
+- Dynamic programming
+	*  최적 부분 구조 + 중복되는 부분 문제 해결 -> 한 번 계산한 결과를 재활용하는 방식 
+	*  Memoization : 중복되는 계산은 한 번만 계산 후 메모 (cache에 저장후 사용, 하향식 접근 Top-Down) - 재귀
+		* 위에서부터 하기때문에 필요없는 계산 안해도되는 장점
+	*  Tabulation : Table 방식으로 정리 (상향식 접근, bottom up) - 반복문
+```python
+def fib_memo(n, cache):
+    if n < 3:
+        return 1
+    if n in cache:
+        return cache[n]
+        
+    cache[n] = fib_memo(n-1, cache) + fib_memo(n-2, cache)
+    
+    return cache[n]
+
+# Memoization
+def fib(n):
+    # n번째 피보나치 수를 담는 사전
+    fib_cache = {}
+
+    return fib_memo(n, fib_cache)
+
+# Tabulation
+def fib_tab(n):
+    fib_table = [0,1,1]
+    for i in range(3, n+1):
+        fib_table.append(fib_table[i-2] + fib_table[i-1])
+    return fib_table[n]
+
+def fib_optimized(n):
+    if n < 3 :
+        return 1
+    num1, num2 = 1, 1
+    for i in range(3, n+1):
+        num2, num1 = num2+num1, num2
+    return num2
 ```
 
 # 1) Python 코딩 풀이
