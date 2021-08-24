@@ -255,6 +255,12 @@ def fib_optimized(n):
     return num2
 ```
 
+- Greedy Algorithm
+	* 장점: 간단하고 빠르다
+	* 단점: 최적의 답이 보장되지 않는다 
+	* 최적 부분 구조(Optimal Substructure) - 부분 문제들의 최적의 답을 이용해서 기존 문제의 최적의 답을 구할 수 있다는 것
+	* 탐욕적 선택 속성(Greedy Choice Property) - 각 단계에서의 탐욕스런 선택이 최종 답을 구하기 위한 최적의 선택 
+
 # 1) Python 코딩 풀이
 - 코딩 기초 상식을 위한 개인 연습지입니다.
 
