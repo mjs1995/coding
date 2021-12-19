@@ -265,7 +265,7 @@ def fib_optimized(n):
 - 코딩 기초 상식을 위한 개인 연습지입니다.
 
 ## 그리디(greedy)
- 당장 좋은 것만 선택하는 그리디   
+- 당장 좋은 것만 선택하는 그리디   
  
     * 거스름돈 문제
     * 큰 수의 법칙
@@ -279,7 +279,10 @@ def fib_optimized(n):
     * 무지의 
     
 ## 구현(Implementation)
-아이디어를 코드로 바꾸는 구현
+![image](https://user-images.githubusercontent.com/47103479/146678416-aaf50577-a9b7-4789-9855-4d5add5fa9c1.png)
+![image](https://user-images.githubusercontent.com/47103479/146678778-6a9f234d-65e7-4c9d-860a-a55abf57f01a.png)
+
+- 아이디어를 코드로 바꾸는 구현
   
     * 상하좌우
     * 시각
@@ -405,8 +408,14 @@ def fib_optimized(n):
     * 15819_너의 핸들은
     * 18766_카드 바꿔치기
 ### 스택
+![image](https://user-images.githubusercontent.com/47103479/146679108-c8698204-d3de-4dba-9bbc-3e65a04968f5.png)
+
     * 12605_단어순서 뒤집기.py
     * 20001_고무오리 디버깅.py
+
+### 큐 
+![image](https://user-images.githubusercontent.com/47103479/146679098-d0e042f5-fd3d-41ae-ac47-b3b994b617df.png)
+
 
 ### Bronze V
 	* 1000_A+B
