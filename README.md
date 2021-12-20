@@ -309,8 +309,23 @@ def fib_optimized(n):
     * 미로 탈출
     * 특정 거리의 도시 찾기
 
+## DFS
+![image](https://user-images.githubusercontent.com/47103479/146774983-92ffc2de-7861-48aa-9344-780cfaf8e39c.png)
+![image](https://user-images.githubusercontent.com/47103479/146775096-0b21c759-a458-4d14-8f9c-bbd71d179e72.png)
+
+## BFS
+- 거리가 가까운 기준 / 최단거리 목적
+![image](https://user-images.githubusercontent.com/47103479/146775281-e79cb061-9524-4a7b-bee4-63be282c1bb3.png)
+![image](https://user-images.githubusercontent.com/47103479/146775545-f7b9e0c1-250e-4eca-ac8d-a7696bdab324.png)
+
 ## 정렬(Sorting)
 기준에 따라서 데이터를 정렬
+![image](https://user-images.githubusercontent.com/47103479/146783663-dc35a772-8ac3-40fa-8b12-32293a72d579.png)
+![image](https://user-images.githubusercontent.com/47103479/146783975-c4073c17-3e7d-4411-90cd-e17110433b92.png)
+![image](https://user-images.githubusercontent.com/47103479/146784799-7033e3a6-79a1-4f53-8910-83e1a317e250.png)
+![image](https://user-images.githubusercontent.com/47103479/146785005-24fc4200-7538-47c7-957f-28c34a01fc60.png)
+![image](https://user-images.githubusercontent.com/47103479/146785485-08fb44d3-1b6d-4461-8f2a-7cc3f4314f45.png)
+![image](https://user-images.githubusercontent.com/47103479/146786142-cdcae3fa-eee9-41a9-ac4c-dbf1de186fde.png)
 
     * 선택 정렬
     * 스와프(Swap)
