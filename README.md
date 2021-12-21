@@ -345,7 +345,12 @@ def fib_optimized(n):
 
 ## 이진 탐색(Sequential Search)
 범위를 반씩 좁혀가는 탐색
-
+![image](https://user-images.githubusercontent.com/47103479/146942539-ff4dbca2-d413-4b7d-93b4-fb336f1d094c.png)
+![image](https://user-images.githubusercontent.com/47103479/146942627-26a255e2-37f0-404e-96e6-9b067dc8fe28.png)
+![image](https://user-images.githubusercontent.com/47103479/146942707-022e1ce5-f858-4f45-a020-d77614f77161.png)
+![image](https://user-images.githubusercontent.com/47103479/146942776-8ccab5a3-128b-4242-9c47-91c3e4a5e23e.png)
+![image](https://user-images.githubusercontent.com/47103479/146942866-c75b18cb-e068-4d32-8874-2f224ad986a5.png)
+ 
     * 순차 탐색
     * 재귀 함수를 이용한 이진 탐색
     * 반복문을 이용한 이진 탐색
