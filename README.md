@@ -366,6 +366,24 @@ def fib_optimized(n):
     * 가사 검색
 
 ## 다이나믹 프로그래밍(Dynamic)
+- 최적 부분 구조(Optimal Substructure) : 큰 문제를 작은 무제로 나눌 수 있으며 작은 문제의 답을 모아서 큰 문제를 해결할 수 있음
+- 중복되는 부분 문제(Overlapping Subproblem) :  동일한 작은 문제를 반복적으로 해결 
+![image](https://user-images.githubusercontent.com/47103479/147105909-9fbbf369-a2cb-4daf-89b3-049b19b64a60.png)
+![image](https://user-images.githubusercontent.com/47103479/147108359-9c72446f-012b-4244-ab5f-c64bf00dfd62.png)
+![image](https://user-images.githubusercontent.com/47103479/147109005-975650c9-1710-4121-a8aa-0e14c10ef343.png)
+![image](https://user-images.githubusercontent.com/47103479/147108972-50b98dcc-9be4-42a8-8707-2c3b159d8b68.png)
+![image](https://user-images.githubusercontent.com/47103479/147111238-c6bc4deb-4d93-43fe-9751-6dbc4533bf6e.png)
+![image](https://user-images.githubusercontent.com/47103479/147111299-dfb8350c-d0c1-4d5d-8ab3-85b2cf64ad34.png)
+![image](https://user-images.githubusercontent.com/47103479/147111398-95f0c25c-ac2c-4e20-a472-1f7cfaeabdf8.png)
+![image](https://user-images.githubusercontent.com/47103479/147111413-05d2c1ad-2423-42d1-9c51-e405526b92af.png)
+![image](https://user-images.githubusercontent.com/47103479/147111428-dd82143f-e189-4b3d-a016-c82a17865efc.png)
+![image](https://user-images.githubusercontent.com/47103479/147111471-2344a074-25b2-47b9-9d2f-a518af22573e.png)
+![image](https://user-images.githubusercontent.com/47103479/147111776-542f12fc-316b-407c-86e6-b97f25ffc469.png)
+![image](https://user-images.githubusercontent.com/47103479/147111756-9fabb5bd-2272-4e6d-bcae-258decff4f64.png)
+![image](https://user-images.githubusercontent.com/47103479/147111804-44630134-16eb-4c54-ae12-b65b231b268b.png)
+![image](https://user-images.githubusercontent.com/47103479/147111842-25e3df92-ebaf-43e5-938f-2b8d630f0955.png)
+![image](https://user-images.githubusercontent.com/47103479/147111859-ed571368-2960-48b9-ab1d-214963375d5d.png)
+
     * 비효율적인 피보나치 수열 구현
     * 피보나치 수열 (Top-bottom)
     * 피보나치 수열 (Bottom-top)
