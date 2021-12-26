@@ -412,6 +412,12 @@ def fib_optimized(n):
 ![image](https://user-images.githubusercontent.com/47103479/147258283-40f3900d-5f17-44b1-84b8-7821d0403e42.png)
 ![image](https://user-images.githubusercontent.com/47103479/147258375-846f5bba-7e83-48ee-b90d-86360c1a2ae0.png)
 ![image](https://user-images.githubusercontent.com/47103479/147258418-e765eed5-002a-41a8-ae1d-4ae47e3cd1fe.png)
+![image](https://user-images.githubusercontent.com/47103479/147410150-9d1a54a5-662c-4127-b3ee-4ea6d964f514.png)
+![image](https://user-images.githubusercontent.com/47103479/147410157-92c11f05-c4be-4d9c-bd85-b26d5069c757.png)
+![image](https://user-images.githubusercontent.com/47103479/147410173-c0db7539-9155-48d5-8310-628906f7fcfa.png)
+![image](https://user-images.githubusercontent.com/47103479/147410192-7349f799-c1a9-4f76-8b89-a64bdc38ba02.png)
+![image](https://user-images.githubusercontent.com/47103479/147410206-56962cd4-43cd-488f-b9f3-b6ffbc2ec3e5.png)
+![image](https://user-images.githubusercontent.com/47103479/147410211-26808c69-eab7-40bf-af12-f279dbd0d38c.png)
 
     * 간단한 다익스트라 알고리즘
     * 개선된 다익스트라 알고리즘 (우선순위 큐)
@@ -420,8 +426,13 @@ def fib_optimized(n):
     * 전보
 
 ## 기타 그래프 이론(graph/ETC)
-다양한 그래프 알고리즘
-
+- 다양한 그래프 알고리즘
+![image](https://user-images.githubusercontent.com/47103479/147410466-8c440f19-52d3-499b-96b5-c5994cd78d8d.png)
+![image](https://user-images.githubusercontent.com/47103479/147410486-e3c0db87-c400-437f-a340-068197f91e93.png)
+![image](https://user-images.githubusercontent.com/47103479/147410538-a475036b-3908-432a-b31f-b0faa1621baf.png)
+![image](https://user-images.githubusercontent.com/47103479/147410556-6e6cc0b8-bfa4-412b-a1fc-3edd85dd6fe2.png)
+![image](https://user-images.githubusercontent.com/47103479/147410571-a3d31991-df1e-4452-82a8-2f4febba900d.png)
+ 
     * 간단한 서로소 집합 알고리즘
     * 개선된 서로소 집합 알고리즘 (경로 압축)
     * 서로소 집합을 활용한 사이클 판별
