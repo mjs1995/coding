@@ -432,7 +432,37 @@ def fib_optimized(n):
 ![image](https://user-images.githubusercontent.com/47103479/147410538-a475036b-3908-432a-b31f-b0faa1621baf.png)
 ![image](https://user-images.githubusercontent.com/47103479/147410556-6e6cc0b8-bfa4-412b-a1fc-3edd85dd6fe2.png)
 ![image](https://user-images.githubusercontent.com/47103479/147410571-a3d31991-df1e-4452-82a8-2f4febba900d.png)
- 
+![image](https://user-images.githubusercontent.com/47103479/147480083-e3b2d9ac-598d-4ad1-ab08-d4bfe7f278cc.png)
+![image](https://user-images.githubusercontent.com/47103479/147480143-c42355d3-a3d7-475b-a5f0-58ac4735db15.png)
+![image](https://user-images.githubusercontent.com/47103479/147480230-db4867eb-f7e4-4aae-b7aa-b0f72020757a.png)
+![image](https://user-images.githubusercontent.com/47103479/147480266-c2d890e9-7b72-49c3-bc82-49cc6eae5c37.png)
+![image](https://user-images.githubusercontent.com/47103479/147480322-5ea65fe6-dbec-4394-aa48-d208fedba7c9.png)
+![image](https://user-images.githubusercontent.com/47103479/147480373-afac0b92-1755-400b-8f9e-3f3fe6f9fcf9.png)
+![image](https://user-images.githubusercontent.com/47103479/147480408-5b0f5278-648d-464a-ad16-5f548795c294.png)
+![image](https://user-images.githubusercontent.com/47103479/147480420-b2e5ffdd-3e7a-4cba-82e9-209c784f88f1.png)
+![image](https://user-images.githubusercontent.com/47103479/147480438-99e22d99-28b7-421b-917b-bc2742d054cd.png)
+![image](https://user-images.githubusercontent.com/47103479/147480446-4e431118-59ef-4159-bb9a-5cca758bdc1c.png)
+![image](https://user-images.githubusercontent.com/47103479/147480459-a269e125-7bae-42a6-a92e-6a1e940597c4.png)
+![image](https://user-images.githubusercontent.com/47103479/147480470-d6c8668f-a460-439b-83af-86e5511ab90c.png)
+![image](https://user-images.githubusercontent.com/47103479/147480490-ada8a5fe-00f6-4848-a29e-d832989daa67.png)
+![image](https://user-images.githubusercontent.com/47103479/147480502-79f4470f-a928-4647-bcc3-589e5aaf5385.png)
+![image](https://user-images.githubusercontent.com/47103479/147480517-0014f152-cbd1-417f-89c6-0d2dd3daa45f.png)
+![image](https://user-images.githubusercontent.com/47103479/147480530-ca5e300d-7610-458b-a519-4d2e736bf046.png)
+![image](https://user-images.githubusercontent.com/47103479/147480596-1d860327-2c4a-4909-82d7-4c96bb488955.png)
+![image](https://user-images.githubusercontent.com/47103479/147480689-b6050e2e-e3a8-40e6-a2c6-ca5a1ec9f283.png)
+![image](https://user-images.githubusercontent.com/47103479/147480727-ca46a2a7-2e4a-42b6-9efb-ba44d740fad3.png)
+![image](https://user-images.githubusercontent.com/47103479/147480750-47b5064d-b482-45e2-979b-f6055bdb144a.png)
+![image](https://user-images.githubusercontent.com/47103479/147480787-b0207036-6b4d-4928-a9f0-c7a5edd9c5f2.png)
+![image](https://user-images.githubusercontent.com/47103479/147480794-13551007-ff13-49c2-98a8-39147920309e.png)
+![image](https://user-images.githubusercontent.com/47103479/147480818-a8475b99-68ab-43f2-a684-7ffb0e97ea9c.png)
+![image](https://user-images.githubusercontent.com/47103479/147480826-a95ac57e-a047-4955-af62-2c94b8accb44.png)
+![image](https://user-images.githubusercontent.com/47103479/147480836-5b486442-8bd9-4192-b90b-9bf4ce0e2a28.png)
+![image](https://user-images.githubusercontent.com/47103479/147480841-c854a8be-c07c-4657-9f68-ba15d3f6f97d.png)
+![image](https://user-images.githubusercontent.com/47103479/147480853-80df4910-8f0a-4f6b-9a22-2343d4b14ea8.png)
+![image](https://user-images.githubusercontent.com/47103479/147480861-e76ca606-512b-42b4-b65b-828dba8c64e3.png)
+![image](https://user-images.githubusercontent.com/47103479/147480882-ee8851ab-ebe6-4576-a013-8da5dd2ca1d6.png)
+![image](https://user-images.githubusercontent.com/47103479/147480926-b96f54b1-9abb-4476-827d-e60c54993fb1.png)
+
     * 간단한 서로소 집합 알고리즘
     * 개선된 서로소 집합 알고리즘 (경로 압축)
     * 서로소 집합을 활용한 사이클 판별
@@ -445,6 +475,27 @@ def fib_optimized(n):
     * 투 포인터
     * 암호만들기
     * 소수구하기
+
+## 기타 알고리즘
+![image](https://user-images.githubusercontent.com/47103479/147481143-95f9067b-27bd-4a48-b0d0-d7d261ebf8f4.png)
+![image](https://user-images.githubusercontent.com/47103479/147481214-064fa9d9-70e5-4c4c-90f9-c418056642f3.png)
+![image](https://user-images.githubusercontent.com/47103479/147481260-3c91cbc4-dccd-4ce3-a67f-a092d1d3d9ba.png)
+![image](https://user-images.githubusercontent.com/47103479/147481361-8191be0f-4cde-48c0-af93-5661dd2ef826.png)
+![image](https://user-images.githubusercontent.com/47103479/147481416-8787cbb4-8a1b-4c11-95b7-a7bed484ffeb.png)
+![image](https://user-images.githubusercontent.com/47103479/147481437-b25bb091-144e-4da1-a4b0-0303e82deef6.png)
+![image](https://user-images.githubusercontent.com/47103479/147481450-42ac9b75-dd5a-47b2-bc9f-e26817f13593.png)
+![image](https://user-images.githubusercontent.com/47103479/147481489-849f373e-3dd6-4a4b-890b-33004590ea52.png)
+![image](https://user-images.githubusercontent.com/47103479/147481562-9ecca8b4-4292-4909-b8be-cd803f9e4b8e.png)
+![image](https://user-images.githubusercontent.com/47103479/147481607-6571f57d-8754-44cc-abba-5c118df7facb.png)
+![image](https://user-images.githubusercontent.com/47103479/147481672-c5f5af00-4838-4d84-adb6-60b9d19aaef4.png)
+![image](https://user-images.githubusercontent.com/47103479/147481728-9b27c0d8-1a7b-481b-9b38-208309ed2039.png)
+![image](https://user-images.githubusercontent.com/47103479/147481749-a21d25e0-f2a7-4450-b0b7-2156e037bce5.png)
+![image](https://user-images.githubusercontent.com/47103479/147481764-cede558c-7ae2-4e5d-9cb9-70bd4eaab087.png)
+![image](https://user-images.githubusercontent.com/47103479/147481777-08a250ce-b47d-4254-8a89-4ec82f3ae608.png)
+![image](https://user-images.githubusercontent.com/47103479/147481843-cf405d44-c6c2-4550-8346-64a7951ec9ac.png)
+![image](https://user-images.githubusercontent.com/47103479/147481913-1a3928a8-ef24-416d-bc27-efd1240578f2.png)
+![image](https://user-images.githubusercontent.com/47103479/147481978-4d33583e-81e7-4135-a1d8-9b9a6ac30cb8.png)
+![image](https://user-images.githubusercontent.com/47103479/147482094-d9c44b75-0ba6-4adf-90b9-9a0a9ef71941.png)
 
 ## 백준
 ### 그리디
