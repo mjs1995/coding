@@ -497,7 +497,21 @@ def fib_optimized(n):
 ![image](https://user-images.githubusercontent.com/47103479/147481978-4d33583e-81e7-4135-a1d8-9b9a6ac30cb8.png)
 ![image](https://user-images.githubusercontent.com/47103479/147482094-d9c44b75-0ba6-4adf-90b9-9a0a9ef71941.png)
 
-## 백준
+## 서버
+![image](https://user-images.githubusercontent.com/47103479/147578900-291903ac-64fd-4ed0-b254-4566f825a40f.png)
+![image](https://user-images.githubusercontent.com/47103479/147578925-d17433f0-ab34-4a83-8d5c-762e21d688bc.png)
+![image](https://user-images.githubusercontent.com/47103479/147578941-737224a2-826f-4439-ae12-13c1a7beb823.png)
+![image](https://user-images.githubusercontent.com/47103479/147578952-d2884bcd-0d84-4b02-b4ee-9a426bd60c6c.png)
+![image](https://user-images.githubusercontent.com/47103479/147578991-eb69f29a-530b-4235-9b35-5bea60482d3f.png)
+![image](https://user-images.githubusercontent.com/47103479/147578999-4834390e-5feb-4717-bc3b-eccf62e68e83.png)
+![image](https://user-images.githubusercontent.com/47103479/147579013-adfa91ec-6ba1-497b-9fc5-a563c13c7e52.png)
+![image](https://user-images.githubusercontent.com/47103479/147579023-8bdb5bec-ec67-4eaf-a7db-c801302906c3.png)
+![image](https://user-images.githubusercontent.com/47103479/147579031-081c43f0-ba22-46cc-bee0-3e9c5f9cf421.png)
+![image](https://user-images.githubusercontent.com/47103479/147579049-1b9f9c36-bdf2-476b-811a-d2755e53253c.png)
+![image](https://user-images.githubusercontent.com/47103479/147579065-9296ad00-0559-450d-ab17-44c0735f65f1.png)
+ 
+
+# 백준
 ### 그리디
     * 11034_캥거루 세마리2
     * 1434_책 정리
