@@ -309,11 +309,18 @@ def fib_optimized(n):
     * 미로 탈출
     * 특정 거리의 도시 찾기
 
-## DFS
+## 트리
+![image](https://user-images.githubusercontent.com/47103479/147673449-f2725103-2c0a-4798-9339-c2720eafdb37.png)
+![image](https://user-images.githubusercontent.com/47103479/147673553-959c6539-2f55-495d-a3db-f4bb3719e49e.png)
+![image](https://user-images.githubusercontent.com/47103479/147673839-5f344b5c-4611-43b4-8dec-97dfbb9dbda7.png)
+![image](https://user-images.githubusercontent.com/47103479/147673891-2eaba4b8-9e68-4eaa-b821-3bdfbc58f552.png)
+![image](https://user-images.githubusercontent.com/47103479/147673956-39d5ca17-47fe-4bcf-91f0-ab0e4d6b4792.png)
+ 
+### DFS
 ![image](https://user-images.githubusercontent.com/47103479/146774983-92ffc2de-7861-48aa-9344-780cfaf8e39c.png)
 ![image](https://user-images.githubusercontent.com/47103479/146775096-0b21c759-a458-4d14-8f9c-bbd71d179e72.png)
 
-## BFS
+### BFS
 - 거리가 가까운 기준 / 최단거리 목적
 ![image](https://user-images.githubusercontent.com/47103479/146775281-e79cb061-9524-4a7b-bee4-63be282c1bb3.png)
 ![image](https://user-images.githubusercontent.com/47103479/146775545-f7b9e0c1-250e-4eca-ac8d-a7696bdab324.png)
@@ -547,6 +554,9 @@ def fib_optimized(n):
 
 ### 큐 
 ![image](https://user-images.githubusercontent.com/47103479/146679098-d0e042f5-fd3d-41ae-ac47-b3b994b617df.png)
+![image](https://user-images.githubusercontent.com/47103479/147672994-811e4ddf-1331-4b51-98b5-c2f6bfd18838.png)
+![image](https://user-images.githubusercontent.com/47103479/147673085-e7ad0e12-9804-4890-bcc0-255da9a71b41.png)
+![image](https://user-images.githubusercontent.com/47103479/147673348-077bf42d-c966-483a-b778-f0c82df32527.png)
 
 
 ### Bronze V
